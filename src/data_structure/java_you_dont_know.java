@@ -1,4 +1,4 @@
-package java_simple;
+package data_structure;
 
 import java.lang.reflect.Field;
 import java.util.Random;
